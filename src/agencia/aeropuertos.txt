@@ -1,0 +1,34 @@
+ABC:Albacete:Los Llanos
+ALC:Alicante:El Altet
+LEI:Almeria
+OVD:Asturias
+BJZ:Badajoz:Talavera la Real
+BCN:Barcelona:El Prat
+BIO:Bilbao:Sondika
+RGS:Burgos:Villafría
+ODB:Cordoba
+GRO:Gerona:Costa Brava
+GRX:Granada
+HSK:Huesca:o Pirineos
+XRY:Jerez
+LCG:La Corunia:Alvedro
+LEN:Leon:La Virgen del Camino
+RJL:Logroño:Agoncillo
+MAD:Madrid:Barajas
+MCV:Madrid:Cuatro Vientos
+TOJ:Madrid:Torrejon
+AGP:Malaga
+MJV:Murcia:San Javier
+PNA:Pamplona:Noain
+SDR:Parayas
+REU:Reus
+QSA:Sabadell
+SLM:Salamanca:Mataca
+EAS:San Sebastian
+SCQ:Santiago de Compostela:Lavacolla
+SVQ:Sevilla:San Pablo
+VLC:Valencia
+VLL:Valladolid:Villanubla
+VGO:Vigo:Peinador
+VIT:Vitoria:Foronda
+ZAZ:Zaragoza
